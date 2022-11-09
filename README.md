@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadBaba
 - 👀 I’m interested in Data Analytics, Data science, Data visualisation and Machine Learning
-- 🌱 I’m currently learning Google Data Analytics
+- 🌱 I’m currently practicing Google Data Analytics
 - 💞️ I’m looking to collaborate on exploiting useful data structures
 - 📫 How to reach me ; Radhouane.Baba@gmail.com or https://www.linkedin.com/in/radhouanebaba/
 
